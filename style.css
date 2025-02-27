@@ -23,7 +23,7 @@ body {
   content: "💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻";
   position: absolute;
   white-space: nowrap;
-  font-size: 40px;
+  font-size: 65px;
   animation: moveBackground 20s linear infinite;
 }
 
